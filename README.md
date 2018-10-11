@@ -139,3 +139,12 @@ Take a baseline installation of a Linux distribution on a virtual machine and pr
   - `sudo service apache2 restart`
   
 17. Visit site at [http://18.223.113.160](http://18.223.113.160)
+
+#### third-party resources
+1. [UbuntuTime](https://help.ubuntu.com/community/UbuntuTime) .
+2. [Askubuntu](http://askubuntu.com/questions/27559/how-do-i-disable-remote-ssh-login-as-root-from-a-server).
+3. [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps).
+
+4. [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps), [Dabapps](http://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/).
+5. [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-run-django-with-mod_wsgi-and-apache-with-a-virtualenv-python-environment-on-a-debian-vps).
+
